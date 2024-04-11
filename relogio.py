@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 #Programa que converte um relógio do formato 24 horas para 12 horas
 
+=======
+>>>>>>> 090c27495ad1add0dcb66434e427f11d95e1c65a
 a = "AM"
 p = "PM"
 horas = 1
